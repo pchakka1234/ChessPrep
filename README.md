@@ -58,7 +58,7 @@ git clone https://github.com/pchakka1234/ChessPrep.git
 cd ChessPrep
 ```
 
-The repository is currently private, so cloning requires access.
+The repository is public.
 
 ### 2. Configure Supabase
 
